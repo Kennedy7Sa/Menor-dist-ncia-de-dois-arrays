@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "decifrar codigo do navio/1.0.0": {
+        "runtime": {
+          "decifrar codigo do navio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "decifrar codigo do navio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

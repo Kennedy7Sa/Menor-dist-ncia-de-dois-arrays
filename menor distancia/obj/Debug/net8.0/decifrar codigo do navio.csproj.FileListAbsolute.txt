@@ -1,0 +1,14 @@
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.AssemblyInfoInputs.cache
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.AssemblyInfo.cs
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\decifrar codigo do navio.exe
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\decifrar codigo do navio.deps.json
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\decifrar codigo do navio.runtimeconfig.json
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\decifrar codigo do navio.dll
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\decifrar codigo do navio.pdb
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.dll
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\refint\decifrar codigo do navio.dll
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.pdb
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\decifrar codigo do navio.genruntimeconfig.cache
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\ref\decifrar codigo do navio.dll

@@ -1,0 +1,14 @@
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.AssemblyInfoInputs.cache
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.AssemblyInfo.cs
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\Menor distância de dois arrays.exe
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\Menor distância de dois arrays.deps.json
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\Menor distância de dois arrays.runtimeconfig.json
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\Menor distância de dois arrays.dll
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\bin\Debug\net8.0\Menor distância de dois arrays.pdb
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.dll
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\refint\Menor distância de dois arrays.dll
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.pdb
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\Menor distância de dois arrays.genruntimeconfig.cache
+C:\Users\Kennedy\Desktop\decifrar codigo do navio\obj\Debug\net8.0\ref\Menor distância de dois arrays.dll

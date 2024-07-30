@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Menor distância de dois arrays/1.0.0": {
+        "runtime": {
+          "Menor distância de dois arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menor distância de dois arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
